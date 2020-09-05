@@ -1,1 +1,3 @@
 # bgm-graph
+
+![](./readme.png)
